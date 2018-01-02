@@ -4,7 +4,7 @@
 
 ## Are you ready ?
 
-* Wifi access code #asktoyourmentor
+* Wifi access code #askyourmentor
 * your favorite Editor and plugins
 * awesome terminal, aliases and colors scheme
 * browser(s)
@@ -22,11 +22,11 @@
 | What | Who |
 |----- | --- |
 | Gmail | Infra |
-| Slack | Infra |
+| Slack | Infra |
 | Gitlab | Infra |
 | Gitlab docker image registry | Mentor |
-| Browserstack | QA |
-| Jenkins | QA |
+| Browserstack | QA |
+| Jenkins | QA |
 | Internal vpn | Infra |
 | Private npm registry | Mentor |
 | Create your own npm username  | Mentor |
